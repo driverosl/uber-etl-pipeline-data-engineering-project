@@ -16,9 +16,9 @@ Google Cloud Platform
 3. BigQuery
 4. Looker Studio
 
-Modern Data Pipeine Tool - https://www.mage.ai/
+Modern Data Pipeline Tool - https://www.mage.ai/
 
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
+Contribute to this open source project - https://github.com/mage-ai/mage-ai
 
 
 ## Dataset Used
@@ -32,7 +32,9 @@ More info about dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-<img src="data_model.jpeg">
+![image](https://github.com/driverosl/uber-etl-pipeline-data-engineering-project/assets/112787924/86d40c8b-6114-4862-9e36-2ac1b6e6cfd6)
+
+
 
 ## Complete Video Tutorial 
 Video Link - https://youtu.be/WpQECq5Hx9g
